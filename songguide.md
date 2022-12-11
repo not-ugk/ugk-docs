@@ -10,10 +10,12 @@ The songbook is composed of videos downloaded from YouTube. To add songs to the 
 4. Save the song to a playlist. Detailed instructions [below](#how-to-create-and-add-videos-to-a-youtube-playlist)
 5. Send me the URL of the playlist
 6. You can continue adding songs to the playlist until the cutoff time, I will add all of them to the songbook until then
+7. For future events you can continue to use the same playlist, you won't need to send me the URL again. Once a song has been added to the Songbook you can either remove it from the playlist or leave it in
 
 ## How to find a good karaoke version
 * There are two general types of karaoke songs you can find on YouTube: those that use the original song with the vocals removed, and those that are covers of the song without vocals. The ones that remove vocals will be closest to the original, however the process of removing the vocals can leave auditory artifacts that may sound bad. It will also remove any backup vocals, so if the song relies heavily on backup vocals it may sound strange or be difficult to sing without them. Cover versions will sound less like the original, but will usually include backup vocals
 * It is important that the songs do not have the main vocal track in them. Please avoid any videos by KaraFun because they have the main vocal track in all their videos
+* Make sure the video has a guiding line to indicate when to sing. Occaisionally you'll find an instrumental version of a song that just has pages of lyrics with nothing to indicate when they should be sung. This is not helpful for karaoke
 * There are many good sources for karaoke songs on YouTube, but here are some recommendations that I've found to be consistently high quality:
   * CC Karaoke removes the vocals from the original songs and consistently does so without introducing artifacts. They also have some fairly obscure songs
   * Sing King and Zoom Karaoke make cover versions which include backup vocals and generally are pretty close matches to the original
