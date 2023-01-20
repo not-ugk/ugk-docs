@@ -1,6 +1,6 @@
 # Underground Karaoke
 
-Please review our [Code of Conduct](/codeofconduct-wip.md) before attending any UGK events.
+Please review our [Code of Conduct](/codeofconduct-wip.md) and [Covid Policy](/covid-policy.md) before attending any UGK events.
 
 The list of all current songs is available in the [Songbook](/Songbook.pdf).
 
