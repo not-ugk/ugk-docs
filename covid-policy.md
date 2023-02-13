@@ -8,7 +8,6 @@ Easy one, just don't come if you are ill, whether it's covid or RSV or something
 
 ## Rule 2: Always test beforehand
 
-If you are using rapid tests (you can order them for free monthly in Washington at [Say Yes! COVID Test](https://sayyescovidhometest.org/), 
-test two days before the event and the day of, as close to the event time as possible.
+Take a rapid test the day of the event, as close to the event time as possible. You can order them for free monthly in Washington at [Say Yes! COVID Test](https://sayyescovidhometest.org/).
 
-Getting a PCR test is better and is advised if you have been around a lot of people.
+If you've been around a lot of people, please get a PCR test ahead of the event. The [King County COVID-19 resources page](https://kingcounty.gov/depts/health/covid-19/testing.aspx) has a list of PCR testing sites.
