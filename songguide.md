@@ -6,8 +6,8 @@ The songbook is composed of videos downloaded from YouTube. To add songs to the 
 ## How to add songs
 1. Check the [Songbook](/Songbook.pdf) for the song you want. If it's already in the songbook you don't need to do anything else. If you care strongly about having a certain version of a song, contact me and I'll let you know what version I have. I'm fine with adding an additional version if you don't like the one I have
 2. Search YouTube for "[artist] [song] karaoke"
-3. Go through the results and find a good version. See [below](#how-to-find-a-good-karaoke-version) for tips on finding good karaoke version
-4. Save the song to a playlist. Detailed instructions [below](#how-to-create-and-add-videos-to-a-youtube-playlist)
+3. Go through the results and find a good version. See below for [how to find a good karaoke version](#how-to-find-a-good-karaoke-version)
+4. Save the song to a playlist. Detailed instructions for [how to create and add songs to a playlist](#how-to-create-and-add-videos-to-a-youtube-playlist) below
 5. Send me the URL of the playlist
 6. You can continue adding songs to the playlist until the cutoff time, I will add all of them to the songbook until then
 7. For future events you can continue to use the same playlist, you won't need to send me the URL again. Once a song has been added to the Songbook you can either remove it from the playlist or leave it in
